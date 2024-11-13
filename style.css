@@ -3,38 +3,32 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-
-    
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
         
-            margin: 0;
-            font-family: Arial, sans-serif;
-        }
-        
-        header {
-            background-image: url("C:\xampp\htdocs\UTS\assets\bg4.jpg");
-            background-size: cover; 
-            background-position: center; 
-            color: white; 
-            padding: 20px; 
-        }
+header {
+    background-image: url("C:\xampp\htdocs\UTS\assets\bg4.jpg");
+    background-size: cover; 
+    background-position: center; 
+    color: white; 
+    padding: 20px; 
+}
 
-        nav ul {
-            list-style-type: none; /* Menghapus bullet pada list */
-            padding: 0; /* Menghapus padding */
-        }
+nav ul {
+    list-style-type: none; /* Menghapus bullet pada list */
+    padding: 0; /* Menghapus padding */
+}
 
-        nav ul li {
-            display: inline; /* Menampilkan item list secara horizontal */
-            margin-right: 15px; /* Jarak antar item */
-        }
+nav ul li {
+    display: inline; /* Menampilkan item list secara horizontal */
+    margin-right: 15px; /* Jarak antar item */
+}
 
-        nav ul li a {
-            color: white; /* Warna teks link */
-            text-decoration: none; /* Menghapus garis bawah pada link */
-        }
-    
-    
-
+nav ul li a {
+    color: white; /* Warna teks link */
+    text-decoration: none; /* Menghapus garis bawah pada link */
+}
 
 header {
     background-image: url(assets/bg4.jpg);
@@ -212,4 +206,3 @@ section h2 {
     text-align: center;
     color: white;
 }
-
